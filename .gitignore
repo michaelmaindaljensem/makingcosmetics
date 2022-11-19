@@ -21,4 +21,4 @@ function inspect(coords) {
 Map.onClick(inspect);
 function showElevation(elevation) {
   print('Elevation: ', elevation);
-}
+}Aslams gravalvorlig pul hus
